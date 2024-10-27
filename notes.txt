@@ -1,0 +1,6 @@
+To run:
+node --env-file=.env index.js
+
+204 No Content
+
+//if it comes from discord, will specifically look for discord name - vice versa on twitch
